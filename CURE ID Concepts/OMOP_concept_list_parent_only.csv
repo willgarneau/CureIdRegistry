@@ -120,3 +120,4 @@ OMOP concept_ID,Concept code,Concept name,OMOP domain,Vocabulary,Standard,Descen
 45889034,1012752,Hemodialysis procedure,Procedure,CPT4,S,TRUE
 45889365,1012740,Dialysis Services and Procedures,Procedure,CPT4,S,TRUE
 2213576,90945,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies)",Procedure,CPT4,S,TRUE
+37047310, LP382717-9, Alkaline phosphatase, Measurement, LOINC, S, TRUE
