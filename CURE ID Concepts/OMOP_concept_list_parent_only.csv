@@ -120,3 +120,45 @@ OMOP concept_ID,Concept code,Concept name,OMOP domain,Vocabulary,Standard,Descen
 45889034,1012752,Hemodialysis procedure,Procedure,CPT4,S,TRUE
 45889365,1012740,Dialysis Services and Procedures,Procedure,CPT4,S,TRUE
 2213576,90945,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies)",Procedure,CPT4,S,TRUE
+37049794, LP382722-9, Alkaline phosphatase, Measurement, LOINC, S, TRUE
+377091, 91175000, Seizure, Clinical finding, SNOMED, S, TRUE
+319835,	42343007, Congestive Heart Failure,Clinical finding, SNOMED, S, TRUE
+441589,	56819008, Endocarditis, SNOMED, Clinical finding, S, TRUE
+314383,	50920009, Myocarditis, SNOMED, Clinical finding, S, TRUE
+44784217, 698247007, Cardiac arrhythmia, SNOMED, Clinical finding, S, TRUE
+4329847, 22298006, Myocardial infarction, SNOMED, Clinical finding, S, TRUE
+321042,	410429000, Cardiac arrest, SNOMED, Clinical finding, S, TRUE
+254061,	60046008, Pleural effusion, SNOMED, Clinical finding, S, TRUE
+253796,	36118008, Pneumothorax, SNOMED, Clinical finding, S, TRUE
+4195694,	67782005, Acute respiratory distress syndrome, SNOMED, Clinical finding, S, TRUE
+257315,	53084003, Bacterial pneumonia, SNOMED, Clinical finding, S, TRUE
+261326,	75570004, Viral pneumonia, SNOMED, Clinical finding, S, TRUE
+43530623,	1131000119105, Stroke/Cerebrovascular accident, SNOMED, Clinical finding, S, TRUE
+435785, 7180009, Meningitis, SNOMED, Clinical finding, S, TRUE
+132736,	5758002, Bacteremia, SNOMED, Clinical finding, S, TRUE
+436093,	67406007, Disseminated intravascular coagulation, SNOMED, Clinical finding, S, TRUE
+440417,	59282003, Pulmonary embolism, SNOMED, Clinical finding, S, TRUE
+43531681,	651000119108, Deep vein thrombosis, SNOMED, Clinical finding, S, TRUE
+197320,	14669001, Acute renal failure, SNOMED, Clinical finding, S, TRUE
+192671,	74474003, Gastrointestinal hemorrhage, SNOMED, Clinical finding, S, TRUE
+4182210,	52448006, Dementia, SNOMED, Clinical finding, S, TRUE
+40401938,	205614001, Down syndrome, SNOMED, Clinical finding, S, TRUE
+439776,	35919005, Autism spectrum disorder, SNOMED, Clinical finding, S, TRUE
+197494, 50711007, Hepatitis C, SNOMED, Clinical finding, S, TRUE
+4281232,	66071002, Hepatitis B, SNOMED, Clinical finding, S, TRUE
+37050664,	LP378502-1, Influenza A, LOINC, Measurement, S, TRUE
+37024394,	LP378559-1, Influenza B, LOINC, Measurement, S, TRUE	
+3025634,	29908-1, Parinfluenza 1, LOINC, Measurement, S, FALSE
+37065137,	LP378960-1, Respiratory syncytial virus, LOINC, Measurement, S, TRUE
+37024723,	LP380002-8, Herpes virus 6, LOINC, Measurement, S, TRUE
+37055446,	LP378971-8, Rhinovirus, LOINC, Measurement, S, TRUE
+37068812,	LP378241-6, Human metapneumovirus, LOINC, Measurement, S, TRUE
+37025945,	LP377195-5, Human coronavirus, LOINC, Measurement, S, FALSE
+37050195,	LP377083-3, Adenovirus, LOINC, Measurement, S, FALSE
+37075814	LP379721-6, Beta-d-glucan, LOINC, Measurement, S, FALSE
+37033649,	LP376244-2, Galactomannan (serum), LOINC, Measurement, S, FALSE
+36205488,	LP260072-6, Galactomannan (BAL), LOINC, Measurement, N, FALSE
+37069484,	LP376381-2, Histoplasma Ag (serum), LOINC, Measurement, S, FALSE
+36207253,	LP256485-6, Histoplasma Ag (urine), LOINC, Measurement, N, FALSE
+40796545,	LP43013-9, Coccidioides IgM, LOINC, Measurement, N, FALSE
+40773382,	LP43012-1, Coccidioides IgG, LOINC, Measurement, N, FALSE
